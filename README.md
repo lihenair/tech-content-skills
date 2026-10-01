@@ -9,3 +9,10 @@
 ## 用法
 
 把对应文件夹放进你的 agent 的 skills 目录（例如 `.cursor/skills/` 或 `~/.claude/skills/`），agent 会按 SKILL.md 里的 description 判断何时调用。
+
+## Posts
+
+用上面 skill 做出来的成品，每篇包含文案和配图：
+
+- [2026-10-01 Anthropic 给自己踩刹车](posts/2026-10-01-anthropic-brakes/)：小红书版 `xiaohongshu.md`（含引语时间戳核对清单）、公众号长文 `wechat.md`、10 张配图
+- [2026-10-01 MCP 已死？Pi 团队改口](posts/2026-10-01-mcp-debate/)：小红书文案 `xiaohongshu.txt`、10 张配图
