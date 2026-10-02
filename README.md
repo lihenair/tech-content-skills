@@ -4,7 +4,7 @@
 
 ## Skills
 
-- [xhs-tech-post](skills/xhs-tech-post/SKILL.md)：把科技新闻、访谈、视频或讨论帖做成小红书图文。流程包括读原始材料、选调性（认知差只是其中一种，见 [tones.md](skills/xhs-tech-post/tones.md)）、降敏、核实引语和数字、定稿后再出图，以及措辞自检。
+- [xhs-tech-post](skills/xhs-tech-post/SKILL.md)：把科技新闻、访谈、视频或讨论帖做成小红书图文。完整准确优先；调性跟正文结构走（认知差不是默认主，见 [tones.md](skills/xhs-tech-post/tones.md)）。流程还包括降敏、核实引语和数字、定稿后再出图，以及措辞自检。口吻以已落盘文章为底，慢慢形成辨识度。
 
 ## 用法
 
