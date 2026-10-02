@@ -3,7 +3,7 @@ name: 小红书科技图文：降敏+核实+出图
 description: >-
   Use when turning a tech news story, interview, video or thread into a
   Xiaohongshu (小红书) image-and-text post; when choosing the post's 调性/angle
-  (认知差, 概念降维, 结构性两难, 圈内人速评, etc. — not 认知差 by default); or when
+  (认知差, 概念降维, 结构性两难, etc. — not 认知差 by default); or when
   reviewing/fact-checking such a draft (including evaluating another AI's review).
 ---
 # 小红书科技图文：降敏 + 核实 + 出图
@@ -20,7 +20,7 @@ description: >-
 
 文案第一行写死 `主调性：… / 辅：…`（主 1 个，辅 0–2 个）。封面和分页必须服从这一行；图片上不印调性名称。
 
-**人设口吻始终叠：** 懂技术的圈内人——口语、敢判断。禁止编造内幕；没有出处的「圈子里都知道」删掉。
+**口吻对标 `posts/` 已落盘小红书文案，不对标 Max 或其他外部博主。** 正文以「我的判断」起头；需要时「先说人话」再展开；3–4 条可核对的点；判断留余地（给不出结论就写还没有）；金句冷静、比喻一次到位。不用「主包 / 卧槽 / WTF / 这事终于来了」群聊腔，不编内幕。样本和禁写见 [tones.md](tones.md)。
 
 **按顺序选主调性，命中就停：**
 1. 观众已经有一条假因果（不是「还不知道」） → **认知差 / 反常识**（你以为/其实 ×3–4）
@@ -31,7 +31,8 @@ description: >-
 6. 能带走 3–5 条可核对项 → **收藏框架**
 7. 有「你下周会做的同类事」 → **普通人翻译**
 8. 有真实步骤/实测 → **避坑实操**
-9. 必须当天发且金句已有 → **圈内人速评** 才升主；否则只当口吻
+
+当天热点也按已落盘结构写满分页（封面 + 判断 + 要点 + 收藏卡 + A/B/C），不要改成群聊速评。
 
 信息差、时间线、数字冲击、情绪共鸣、A/B/C 默认做辅。情绪共鸣不独立成篇。本 skill 不做种草盘点、副业变现、无事实情绪稿。
 
