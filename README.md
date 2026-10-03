@@ -17,3 +17,4 @@
 - [2026-10-01 Anthropic 给自己踩刹车](posts/2026-10-01-anthropic-brakes/)：小红书版 `xiaohongshu.md`（含引语时间戳核对清单）、公众号长文 `wechat.md`、10 张配图
 - [2026-10-01 MCP 已死？Pi 团队改口](posts/2026-10-01-mcp-debate/)：小红书文案 `xiaohongshu.txt`、10 张配图
 - [2026-10-01 Opus 5.5降智了？有人开始拿数据测](posts/2026-10-01-livenerf-opus-nerf/)：livenerf daily tracking experiment on Opus 5.5 quality
+- [2026-10-03 OpenAI 传是智能笔](posts/2026-10-03-openai-ive-pen/)：小红书文案 `xiaohongshu.txt`（定稿前未出图）、核实清单 `sources.md`
