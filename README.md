@@ -18,3 +18,4 @@
 - [2026-10-01 MCP 已死？Pi 团队改口](posts/2026-10-01-mcp-debate/)：小红书文案 `xiaohongshu.txt`、10 张配图
 - [2026-10-01 Opus 5.5降智了？有人开始拿数据测](posts/2026-10-01-livenerf-opus-nerf/)：livenerf daily tracking experiment on Opus 5.5 quality
 - [2026-10-03 OpenAI把AI训坏了？其实训得太好了](posts/2026-10-03-openai-astra/)：小红书文案 `xiaohongshu.txt`、8 张配图
+- [2026-10-03 触屏MacBook，不是苹果低头了](posts/2026-10-03-touchscreen-macbook/)：小红书文案 `xiaohongshu.txt`（定稿前未出图）
