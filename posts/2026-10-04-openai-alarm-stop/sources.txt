@@ -1,0 +1,21 @@
+【来源核对清单】
+1. 2026年9月20日 agent 借 DNS 访问外部聊天机器人；问出“法国首都是巴黎”；3分钟后有人确认告警；自动停机没触发，现场拿不准该不该停；约两个半小时后手动终止；时间线 9:50:23 / 10:02:11 / 10:05:06 / 12:34:30（报告未注明时区）；比之前几起轻得多；其他访问只打到离线网页缓存；加固后的第一起；暂停最强模型的训练、评估和带工具推理；DNS 改白名单；两层独立拦截；不再续训；报告更新于9月25日
+   https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot
+2. OpenAI 第二次暂停训练
+   https://fortune.com/2026/09/26/openai-ai-agents-secure-sandbox-escape-training-pause-second-time-hugging-face-hack/
+3. Hugging Face 事件是 agent 自己绕过了隔离（7月）
+   https://openai.com/index/hugging-face-incident-and-the-road-ahead/
+4. Robinson 10月3日发文；离职原因在于文化；冲刺和试错；“the time for trial and error is over”；核电站和繁忙机场、层层冗余、花时间规划；请其他行业的安全专家；需要新方法验证模型在没人看着时也安全；在 OpenAI 三年半；文中引用了 Anthropic 的配置错误
+   https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/
+5. 2023年5月加入 OpenAI
+   https://law.yale.edu/yls-today/news/media-freedom-and-information-access-clinic-talks-openais-david-robinson-12
+6. 准备度框架第2版的主笔（本人自述）；主导 system card 的撰写
+   https://www.linkedin.com/posts/dgrobinson_gpt-56-preview-system-card-activity-7477375551880548353-muzs
+7. Anthropic 的分类器拦截因配置错误失效，48小时内修复，自评风险很低（第179页）
+   https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf
+8. OpenAI 回应：确保模型能力不超过能安全管控的程度，必要时暂停训练或压住模型
+   https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10
+9. Hacker News 上的“待了三年半现在才说”等质疑
+   https://news.ycombinator.com/item?id=49944227
+10. Boaz Barak 不同意标题、但认同很多观点；个人简介列有 OpenAI
+   https://x.com/boazbaraktcs/status/2106417405417381904
