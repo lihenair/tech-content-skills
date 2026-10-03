@@ -4,8 +4,9 @@ description: >-
   Use when turning a tech news story, interview, video or thread into a
   Xiaohongshu (小红书) image-and-text post; when choosing the post's 调性 from
   the source's actual structure (completeness and accuracy first; 认知差 is not
-  the default primary); or when
-  reviewing/fact-checking such a draft (including evaluating another AI's review).
+  the default primary); when rendering or restyling 小红书图文卡片 / 出图规范 /
+  1242×1660 / 色板; or when reviewing/fact-checking such a draft
+  (including evaluating another AI's review).
 ---
 # 小红书科技图文：降敏 + 核实 + 出图
 
@@ -66,12 +67,10 @@ description: >-
 
 ## 6. 出图（仅在定稿后）
 - 用定稿 txt 的文字逐字出图，不改措辞和数字。
-- HTML/CSS → Playwright，1242×1660（3:4），Noto CJK + Noto Color Emoji；正文 ≥44px，页码 n/9。
-- 风格分两层：
-  - **每篇可变（按文章内容选）**：主色和强调色、装饰元素。例：AI 安全/治理用沉稳蓝灰，工具/开发用薄荷绿，教育/学习用暖黄。始终是浅色清新底，封面也浅色，不用暗黑。
-  - **固定不变（个人风格）**：每页底部一行作者签名（用户账号名，未提供则留空）、统一的📌收藏卡和 A/B/C 互动卡样式、同一套字体与排版节奏、页码 n/9 位置。「你以为 / 其实」只出现在纠正假因果的那几页，不是每篇必用的封面身份。
-- 常用版式：圆角卡片、便签感收藏卡、双栏对比卡、箭头流程、时间线、关键数字放大+进度条。
-- 逐张查看：无截断、无缺字；出图后若再改字，只重渲改过的页并再跑敏感词 grep。
+- HTML/CSS → Playwright。画布、色板、字号、边距、导出见 [visual.md](visual.md)。**不要另起浅色清新风，也不要按题材换主色。**
+- 固定版式：页码默认 `n/9`（定稿写了 8 页就 `n/8`）、底部作者签名（未提供账号则留空）、统一的📌收藏卡和 A/B/C 互动卡。「你以为 / 其实」只出现在纠正假因果的那几页。
+- 常用组件：圆角卡片、双栏对比、时间线、金句左边框、箭头流程、胶囊标签。
+- 逐张查看：无截断、无缺字；图文比约 4:6 或 5:5，避免整页纯字。出图后若再改字，只重渲改过的页并再跑敏感词 grep。
 
 ## 7. 发布后
 - 1–2 小时只有个位数阅读：多半触发低推荐，删掉残余敏感表述再发。
