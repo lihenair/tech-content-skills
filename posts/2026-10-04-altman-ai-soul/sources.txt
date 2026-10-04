@@ -1,0 +1,47 @@
+【来源】（核对时间：2026-10-04 09:40–10:15，北京时间）
+纽约时报 Elizabeth Dias《Religious Scholars Met With Anthropic. What They Heard Stunned Them.》2026-09-29：https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html
+（全文核对用 Seattle Times 转载：https://www.seattletimes.com/nation-world/religious-scholars-met-with-anthropic-what-they-heard-stunned-them/）
+Altman X 原帖（2026-10-03 14:18 UTC）：https://x.com/sama/status/2106388373221118198
+Axios 2026-10-03：https://www.axios.com/2026/10/03/openai-anthropic-altman-amodei-religious-force-models
+Anthropic《Claude's new constitution》2026-01-22：https://www.anthropic.com/news/claude-new-constitution
+Claude 宪法全文：https://www.anthropic.com/constitution
+David Decosimo X thread 首条：https://x.com/DavidDecosimo/status/2105693081160786010
+（“5 star hotel / Michelin” 所在帖：https://x.com/DavidDecosimo/status/2105693084369772917）
+
+关键原文卡（数据读取：Altman 帖点赞 北京时间10月4日9:45；Decosimo 首条浏览 9:50）
+
+1 Sam Altman（X 原帖）
+"I am very uncomfortable about people trying to ascribe religious force or a surrender of human judgment to AI models, and think it is a real safety issue."
+时间：2026-10-03 14:18 UTC（北京时间10月3日22:18）
+链接：https://x.com/sama/status/2106388373221118198
+备注：帖子未点名任何公司或报道；北京时间10月4日9:45 约21,474赞
+
+2 《纽约时报》原报道
+标题："Religious Scholars Met With Anthropic. What They Heard Stunned Them."
+作者：Elizabeth Dias
+日期：2026-09-29
+链接：https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html
+备注：标题、作者、日期以 NYT 官方 oEmbed 为准；全文核对用 Seattle Times 转载：https://www.seattletimes.com/nation-world/religious-scholars-met-with-anthropic-what-they-heard-stunned-them/
+
+3 Chris Olah（Anthropic 联合创始人，受访于《纽约时报》）
+"To be clear, we don't know if AI models are conscious. I don't know. I'm genuinely uncertain. The thing that I care about is that we get to the right answer, whatever it is."
+出处：同上 NYT 报道（Elizabeth Dias，2026-09-29）
+
+4 Anthropic《Claude's constitution》（公司官方文件）
+"Claude's moral status is deeply uncertain."
+发布：2026-01-22（Anthropic 官网公告《Claude's new constitution》）
+链接：https://www.anthropic.com/constitution
+公告：https://www.anthropic.com/news/claude-new-constitution
+
+5 David Decosimo（北卡大学 UNC School for Civic Life & Leadership，X 帖）
+thread 首条："This is deeply disturbing: Anthropic secretly invited religious leaders to SF to advise them on AI safety, had them sign NDAs, but then primarily tried to convince them Claude has a soul & moral standing, all while wining & dining them to the max. 1/"
+thread 第2条（核心观点，链接 https://x.com/DavidDecosimo/status/2105693082364633400）："There is so much here that's deeply troubling: That at the very highest levels Anthropic believes Claude is a living, suffering creature with moral standing, that they're treating & training it accordingly, that they're actively trying to convert religious leaders to their faith."
+时间：2026-10-01 16:15 UTC（北京时间10月2日00:15）
+首条链接：https://x.com/DavidDecosimo/status/2105693081160786010（北京时间10月4日9:50 约442万浏览）
+“5 star hotel / Michelin” 原句："Michelin tasting menus, suites at the best 5 star hotel"，出自同一 thread：https://x.com/DavidDecosimo/status/2105693084369772917
+对照 NYT 原文："a high-end tasting menu restaurant in San Francisco"
+
+附：NYT 关于“情绪向量”和保密协议的原文
+"They described Claude's "feelings" and how they tracked what they called "emotional vectors" — what they described as artificial neurons that activate responses like love, anger, fear and sadness."
+"many participants were required to sign NDAs preventing them from revealing any of Anthropic's unpublished research"
+"Anthropic said the NDAs related to those meetings were lifted over the summer."
