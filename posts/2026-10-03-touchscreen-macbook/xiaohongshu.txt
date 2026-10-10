@@ -23,14 +23,13 @@ iPad：手 + 笔
 现在 Mac 要装触控屏
 等于在 Mac 的地盘上，开了 iPad 的后门
 
-图 3｜时间窗口收到了「最快 10 月」
-古尔曼 10 月 1 日在 Power On 播客原话大意：
-他认为苹果会在今年秋天发布首款触屏 MacBook Pro
-最快 10 月，也可能滑到 11 月
-14 英寸和 16 英寸都有
-内部在用已经发给开发者的 macOS 27.2 Beta 测
-系统更新本身预计 10 月底推正式版
-机子还没官宣
+图 3｜时间窗口收到了「约 10 月 27 日」
+彭博 10 月 8 日经 MacRumors 转述：
+触屏 OLED MacBook Pro 约在 2026-10-27（on or around Tuesday, October 27）亮相*
+同场预期（旁注）：M6 入门 14 寸 MacBook Pro、M6 iMac、OLED iPad mini*
+10 月 13 日另有 Welcome Home（智能家居等）*
+14 英寸和 16 英寸都有；仍归 MacBook Pro 家族的说法占上风*
+机子还没官宣，一律按爆料处理
 
 图 4｜芯片是 M5 Pro / M5 Max，不是新世代首发
 古尔曼 6 月 26 日在彭博社写过：
@@ -39,13 +38,14 @@ iPad：手 + 笔
 M7 机型计划 2027 年跟进
 所以它的定位是「M5 世代的高端变体」
 不是全新芯片世代的首发
+（与 10/8 报道不冲突）
 
 图 5｜刘海换成打孔，灵动岛上 Mac
 屏幕顶部：刘海 → 前摄打孔
 macOS 可能用类似 iPhone 灵动岛的交互，去吃掉这个开孔
 手点菜单会放大控件，鼠标点则保持原样
 键盘和触控板都还在
-加上 OLED，整机传闻比现款更薄
+加上 OLED：明显更轻；「显著更薄」古尔曼已收回（10/8–9 X 回复，MacRumors 整理）*
 苹果不打算把它宣传成「触控优先」的 iPad
 
 图 6｜真正尴尬的不是苹果，是 iPad Pro
@@ -59,9 +59,10 @@ iPad Pro 一直在往「可以当电脑用」走
 两台设备的距离，从来没有这么近过
 
 图 7｜📌 收藏：触屏 Mac 先核对这 3 件事
-① 窗口：最快 10 月，也可能 11 月。还没官宣
+① 窗口：约 2026-10-27。还没官宣，仍是爆料
 ② 芯片：现有 M5 Pro / M5 Max，不是等 M7 才有触控
-③ 位置：放在现款 MacBook Pro 之上。命名可能叫 Ultra，也可能还叫 Pro
+③ 位置：放在现款 MacBook Pro 之上。10/8 报道倾向仍叫 Pro（14/16），Ultra 只作历史分歧保留
+机身：明显更轻；别再写「显著更薄」
 价格：古尔曼说会更贵；他拿过 iPhone X 和 iPad Pro 上 OLED 时大约加价 20% 做参照。具体价没有公开出处能写成死数
 
 图 8｜金句
@@ -77,11 +78,11 @@ iPad Pro 一直在往「可以当电脑用」走
 
 先说人话：过去苹果的逻辑很清楚——Mac 用鼠标和键盘，iPad 用手和笔。两条线各自独立，互不越界。现在要在 Mac 上装触控屏，等于在 Mac 的地盘上开了 iPad 的后门。
 
-前几天翻完古尔曼在 Power On 播客的说法，再对过他今年的几篇彭博社报道，我觉得有 3 个点值得知道：
+对过古尔曼 10 月 1 日 Power On 的旧窗口，再核 10 月 8–9 日彭博 / MacRumors 和古尔曼 X 回复，我觉得有 3 个点值得知道：
 
-1. 时间窗口收到了「最快 10 月，也可能 11 月」。14 和 16 英寸，内部在用已经发给开发者的 macOS 27.2 Beta 测。系统更新本身预计 10 月底推正式版。机子还没官宣。
+1. 时间窗口收到了「约 10 月 27 日」。14 和 16 英寸；同场还可能有 M6 入门 14 寸 MacBook Pro、M6 iMac、OLED iPad mini；10 月 13 日另有 Welcome Home。机子还没官宣。
 2. 芯片用现有的 M5 Pro / M5 Max，不是新世代首发。古尔曼 6 月就写过：会跳过 M6 Pro / M6 Max，M7 机型计划 2027 年跟进。触控版是 M5 世代的高端变体。
-3. 刘海换成前摄打孔，macOS 可能用类似 iPhone 灵动岛的交互去吃掉这个开孔；手点菜单会放大控件，鼠标点则保持原样。加上 OLED，整机传闻比现款更薄。键盘和触控板都还在，不是把 Mac 做成 iPad。
+3. 刘海换成前摄打孔，macOS 可能用类似 iPhone 灵动岛的交互去吃掉这个开孔；手点菜单会放大控件，鼠标点则保持原样。加上 OLED：明显更轻，「显著更薄」古尔曼已收回。键盘和触控板都还在，不是把 Mac 做成 iPad。
 
 但真正值得聊的是这个判断——
 
@@ -89,11 +90,11 @@ iPad Pro 一直在往「可以当电脑用」走
 
 那 iPad Pro 的位置在哪？13 寸 iPad Pro 现在起步 1499 美元，配上妙控键盘，已经靠近入门 MacBook Pro 的 1999 美元。功能上触屏 Mac 又覆盖了 iPad 的核心交互。两台设备之间的距离，从来没有这么近过。
 
-价格方面，古尔曼说这台会放在现有 MacBook Pro 之上，也会更贵。他拿过 iPhone X 和 iPad Pro 上 OLED 时大约加价 20% 做参照。命名可能叫 MacBook Ultra，也可能继续叫 Pro，他自己都没钉死。具体价还没有公开出处能写成死数。
+价格方面，古尔曼说这台会放在现有 MacBook Pro 之上，也会更贵。他拿过 iPhone X 和 iPad Pro 上 OLED 时大约加价 20% 做参照。命名上，10 月 8 日报道倾向仍归 MacBook Pro 家族（14/16）；Ultra 只作为历史分歧保留，不要写成已定调。具体价还没有公开出处能写成死数。
 
 我的判断：触屏 MacBook 不是苹果「终于想通了」，而是苹果在拉高整个 Mac 产品线天花板的同时，顺手把 iPad Pro 逼到了一个必须重新回答「我到底是谁」的位置。短期看是 Mac 的升级，长期看是两条产品线的重新洗牌。
 
-以上根据古尔曼 Power On 播客（2026-10-01）和彭博社公开报道整理。
+以上根据古尔曼 Power On（2026-10-01）、彭博 / MacRumors（2026-10-08）及古尔曼 X 回复收口（2026-10-08/09）整理。仍是爆料，不是官宣。
 
 你怎么看触屏 Mac 和 iPad Pro？
 A 触屏 MacBook 值得冲，iPad Pro 危险了
@@ -111,26 +112,11 @@ C 还要再等 M7 版本，现在不着急
 
 ---
 
-## 发布前核对清单
+## 发布前核对清单（2026-10-10 事实补丁）
 
-结构句：观众以为苹果终于低头 / 想通了；其实触屏不是认输，是把维持十几年的 Mac / iPad 边界亲手拆了，并把 iPad Pro 逼到必须重新回答「我是谁」。
+相对 PR #8 原稿必改：
+1. 时间窗口：旧「最快 10 月 / 也可能 11 月」→ 新「约 2026-10-27」；旁注 10/13 Welcome Home 与同场 M6 机型。出处：https://www.macrumors.com/2026/10/08/apple-october-27-macbook-pro/
+2. 机身：旧「传闻更薄」→ 新「明显更轻」；「显著更薄」已收回。出处：https://www.macrumors.com/2026/10/08/oled-macbook-pro-wont-be-thinner/
+3. 命名：弱化 Ultra 已定调；10/8 倾向仍归 MacBook Pro 家族。
 
-| 说法 | 出处 | 用在 |
-|---|---|---|
-| "Apple, I believe, will introduce its first touchscreen MacBook Pro this fall, as early as October. It could slip to November, but as early as October." | 古尔曼 Power On 播客首期（2026-10-01），MacRumors / 9to5Mac 引述。未拿到逐字时间戳，图上用中文大意，不印英文 | 图 3、正文 ① |
-| 内部用 macOS 27.2 Beta 测试；该 Beta 近几周已发给开发者 | 同上播客，9to5Mac 引述："testing it internally using macOS 27.2, which is a beta that they’ve already put out to developers in recent weeks" | 图 3、正文 ① |
-| macOS 27.2 预计 10 月底推正式版 | MacRumors 2026-10-01 对播客的整理；7 月古尔曼还写过当时测的是 27.1、正式版排在 10 月底 | 图 3、正文 ①。不写成「机子和系统 10 月底同步推出」 |
-| 14 / 16 英寸 | 古尔曼多次报道；6 月 26 日彭博社 / MacRumors：内部代号 K114 / K116 | 图 3 |
-| 现有 M5 Pro / M5 Max，跳过 M6 Pro / M6 Max，M7 后续 2027 | 彭博社 2026-06-26 Gurman；MacRumors 同日转述 | 图 4、正文 ② |
-| 刘海 → 打孔 + 灵动岛；手点放大控件、鼠标保持原样；键盘触控板保留；不宣传成触控优先 | 彭博社 2026-02-24 Gurman；MacRumors 2026-02-24 转述 | 图 5、正文 ③ |
-| OLED + 更薄 | 古尔曼多次；MacRumors 2026-07-22 / 07-27 汇总。没有可信毫米数，只写「传闻更薄」 | 图 5 |
-| 命名可能叫 MacBook Ultra，也可能继续叫 Pro | 古尔曼 2026-03-08 Power On 通讯：Ultra 能更清楚标顶格，但「could keep the traditional MacBook Pro name」。10 月 1 日播客仍称 touchscreen MacBook Pro | 图 7、正文。不写成已经定名 |
-| 会更贵、放在现款 Pro 之上；OLED 上代大约 +20% | 古尔曼 2026-03-08：iPhone X（2017）和 iPad Pro（2024）上 OLED 时大约加价 20%。6 月 26 日：比现款 M5 Pro MacBook Pro 更贵 | 图 7、正文。不写 4000 美元——未见古尔曼原话，属二手推算 |
-| 13 寸 iPad Pro 起步 1499 美元；入门 MacBook Pro 1999 美元 | 苹果 2026-06-25 调价：iPad Pro 13" $1299→$1499，MacBook Pro（M5 入门）$1699→$1999。9to5Mac / MacRumors / EveryMac | 图 6、正文 |
-| 乔布斯：「Touch surfaces don't want to be vertical.」 | 2010-10-20 Back to the Mac 发布会。NBC / CNN / Wired 当时报道 | 图 1。到 2026-10 正好十六年。不把「藏了 16 年的底牌」当事实 |
-
-未采用：
-- 「最快本月定了 / 10 月底同步推出」——播客原话带「也可能 11 月」
-- 「接近 4000 美元」「MacBook Ultra 已定名」——没有古尔曼原话能钉死
-- 蜂窝 / C2 调制解调器——古尔曼只说考虑过，未确认
-- 原稿标题「苹果藏了 16 年的底牌」——和 2010 年公开否决矛盾，改成认知差标题；十六年只用来写「公开改口」
+不改：芯片仍 M5 Pro / Max；主判断仍是拆 Mac / iPad 边界。
